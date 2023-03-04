@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Portfolio: finish mobile version</b></h3>
+  <h3><b>Portfolio: desktop version</b></h3>
 
 </div>
 
@@ -18,11 +18,7 @@
 
 > Project created for learning Git & Github WorkFlow at Microverse
 
-Hello Microverse This project features several interactive design elements that enhance the user experience. The buttons have a smooth color transition effect when the user hovers over them, which adds a dynamic touch to the website. Additionally, the project images increase in size slightly when the user hovers over them, which draws attention to the content and adds visual interest.
-
-Another interactive element is the text of the form instructions, which moves slightly to the right when the user hovers over it. This subtle animation adds a layer of interactivity to the form, making it more engaging for the user.
-
-Finally, the project includes an animation for the logo of the page. When the page loads, the logo rotates once, adding a playful touch to the website's branding. Overall, these interactive design elements make the website more engaging and visually appealing, creating a positive user experience for visitors.
+Hello Microverse This project set of instructions outlines the requirements for a project, specifically aimed at creating a desktop version of a website. The project requires the use of media queries in the CSS file, which is used to ensure that the website appears as similar as possible to the template selected, specifically for screens that are 768px and larger. To layout the elements on the page, the project requires the use of Grid and Flexbox, which are tools that enable effective and efficient web design. The project does not require any JavaScript functionality, but it is encouraged to continue learning and adding to the project where possible. Finally, it is essential to replicate the design as much as possible, which includes matching the font, colors, images, text, and margins to create a cohesive and visually pleasing website. Overall, this set of instructions provides a clear framework for creating a desktop version of a website that is both functional and visually appealing.
 
 ## 🛠 Built With <a id="built-with"></a>
 
@@ -33,14 +29,10 @@ Finally, the project includes an animation for the logo of the page. When the pa
 ## 👥 Author <a id="authors"></a>
 
 👤 **Asad Shareef**
-👤 **Joaquin Calle**
 
 - GitHub: [@asadmisrani](https://github.com/asadmisrani)
-- GitHub: [Joaquin123455](https://github.com/Joaquin123455)
 - Twitter: [@lizalilia1](https://twitter.com/lizalilia1)
-- Twitter: [@CalleJoaquinn](https://twitter.com/CalleJoaquinn)
 - LinkedIn: [Asad Shareef](https://www.linkedin.com/in/asad-shareef-b73665233/)
-- LinkedIn: [Joaquin Calle Aranzolo](https://www.linkedin.com/in/joaquin-calle-aranzolo-695bba260/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🔭 Future Features <a name="future-features"></a>
