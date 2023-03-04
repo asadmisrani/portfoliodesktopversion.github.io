@@ -106,6 +106,7 @@ a {
   width: 40px;
 }
 
+/* media query starts here  */
 @media (min-width: 768px) {
   .title-body {
     margin-top: 120px;
