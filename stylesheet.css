@@ -370,9 +370,9 @@
   }
 
   .image {
-  height: 64px;
-  margin-left: 16px;
-  border-radius: 50%;
+    height: 64px;
+    margin-left: 16px;
+    border-radius: 50%;
   }
 
   .droptext {
