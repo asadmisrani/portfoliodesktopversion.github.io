@@ -108,41 +108,41 @@ a {
 
 @media (min-width: 768px) {
   .title-body {
-  margin-top: 120px;
+    margin-top: 120px;
   }
 
   .title-body > h1 {
-  font-size: 48px;
-  line-height: 60px;
-  width: 568px;
+    font-size: 48px;
+    line-height: 60px;
+    width: 568px;
   }
 
   .title-body .highlited-title {
-  font-size: 48px;
-  margin-bottom: 30px;
-  width: 568px;
+    font-size: 48px;
+    margin-bottom: 30px;
+    width: 568px;
   }
 
   .about-me-brief {
-  font-size: 24px;
-  line-height: 36px;
-  width: 568px;
-  margin-bottom: 80px;
+    font-size: 24px;
+    line-height: 36px;
+    width: 568px;
+    margin-bottom: 80px;
   }
 
   .social-icons {
-  margin-bottom: 80px;
+    margin-bottom: 80px;
   }
 
   .social-icons img {
-  height: 24px;
-  margin: 0 20px;
+    height: 24px;
+    margin: 0 20px;
   }
 
   .button-down {
-  margin-top: 100px;
+    margin-top: 100px;
   }
-  }
+}
 
 .projects {
   display: grid;
@@ -389,40 +389,40 @@ button {
 
 @media screen and (min-width: 768px) {
   .about-me h1 {
-  font-size: 56px;
-  margin-top: 120px;
+    font-size: 56px;
+    margin-top: 120px;
   }
-  
+
   .about-paragraph {
-  margin-top: 32px;
-  margin-left: 160px;
-  margin-right: 160px;
-  font-size: 24px;
-  line-height: 40px;
+    margin-top: 32px;
+    margin-left: 160px;
+    margin-right: 160px;
+    font-size: 24px;
+    line-height: 40px;
   }
-  
+
   .habilities {
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 352px;
-  column-gap: 24px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 352px;
+    column-gap: 24px;
   }
-  
+
   .habilities > div {
-  margin: 0;
-  padding: 32px;
-  text-align: center;
+    margin: 0;
+    padding: 32px;
+    text-align: center;
   }
 
   .habilities img {
-  margin-top: 24px;
-  margin-bottom: 40px;
+    margin-top: 24px;
+    margin-bottom: 40px;
   }
 
   .about-me-container {
-  background-size: 160px 160px, 160px 160px;
-  background-position: 80px 80px, -80px -80px;
+    background-size: 160px 160px, 160px 160px;
+    background-position: 80px 80px, -80px -80px;
   }
-  }
+}
 
 .contact-form p {
   font-weight: 700;
